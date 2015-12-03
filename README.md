@@ -1,6 +1,6 @@
 Anthony Dell'Anno
 =================
-Junior web developer with a passion for creating and building new stuff. Self-taught to code at first, I recently graduated from Makers Academy. I am now seeking full-time employment as a junior developer where continued learning is supported and encouraged.
+Junior web developer with a passion for creating and building new things. Self-taught to code at first, I recently graduated from Makers Academy. I am now seeking full-time employment as a junior developer in a company where continued learning is supported and encouraged.
 
 Code Examples
 -------------
