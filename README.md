@@ -8,14 +8,14 @@ Code Examples
 |-------------|-------------|
 |[Rails-Messenger(github)] (https://github.com/adellanno/rails-messenger) [Rubygems.org] (https://rubygems.org/gems/rails-messenger)|A published Ruby Gem that provides messaging capabilities between users on Rails applications |
 |[Hot, Hot, Cold](https://github.com/adellanno/checkpoint_game)|A mobile based location game, developed using Firebase and Ionic, where users have to locate checkpoints across London using their GPS and cryptic clues.|
-|[Instagram Duplication](https://github.com/adellanno/instagram-challenge)|A duplication of the Instragram using a Rails Framework.|
+|[Instagram Duplication](https://github.com/adellanno/instagram-challenge)|A duplication of Instragram using a Rails Framework.|
 |[Global Trackit](https://github.com/RedhoodIT/globaltrackit)|A project I'm working on within a team in which we track vehicles via GPS and display their location in realtime on a map.|
 
 Skills
 ------
 - Adaptable and a quick learner. I graduated with a degree in Contemporary History in 2011 and now in a relatively short space of time I have taught myself to code using my own resources as well as those provided at Makers Academy.
 - Desire to code and keep coding! I built my first "Hello world" website in HTML and CSS one year ago which set me on this new career path. The last year of coding has been a hugely exciting period for me and I can't wait to continue the journey.
-- Well written and great communication skills. If my my degree in History taught me anything, it taught me how to write well and be a great communicator, a skill highly valued in all team projects!
+- Well written and great communication skills. If my degree in History has taught me anything, it taught me how to write well and be a great communicator, a skill highly valued in all team projects!
 
 
 |          |Comfortable                      |Know          |Touched on           |
@@ -30,11 +30,11 @@ Education
 ---------
 #### Makers Academy (September 2015 to November 2015)
 
-A select 12 week intensive coding bootcamp.
+A selective 12 week intensive coding bootcamp.
 
 - Daily pair programming with a new partner
 - Test driven development was encouraged/enforced from the get go
-- Focused on object oriented programming, agile development and other best practices.
+- Focus on object oriented programming, agile development and other best practices.
 - Experience working in team projects of 4-5 members, building MVP's quickly and working to deadlines
 
 #### University of Sussex (September 2008 - July 2011)
